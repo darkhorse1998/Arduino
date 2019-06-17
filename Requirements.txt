@@ -1,0 +1,15 @@
+Door_Buzzer
+
+Purpose : Buzzer goes off as soon as the door is opened.
+
+Components: 
+
+1) Arduino UNO
+2) Arduino IDE
+3) Ultra Sonic Sensor (HC-SR04)
+4) Male to Female Jumper Wires
+5) Male to Male Jumper Wires
+6) 9V Battery
+7) 9V Battery Connector with DC jack
+
+The Code and the Circuit Diagram is shared too. 
